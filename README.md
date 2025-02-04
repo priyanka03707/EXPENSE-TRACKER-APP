@@ -14,3 +14,7 @@
 
 # DESCRIPTION 
 The Expense Tracker App is an Android application designed to help users manage and monitor their daily expenses in an efficient and organized manner.The app allows users to input their expenses, categorize them, and visualize their spending trends using interactive charts. By integrating Room Database (SQLite), the app ensures that all expenses are stored locally, providing a seamless offline experience. Additionally, users can gain insights into their spending habits through MPAndroidChart, which displays a breakdown of expenses in a graphical format. The app focuses on simplicity, usability, and efficiency, making it a valuable tool for personal finance management.
+
+# OUTPUT OF THE TASK
+
+![Image](https://github.com/user-attachments/assets/e970bc4d-8d48-42de-9356-c3d25a4c03c7)
